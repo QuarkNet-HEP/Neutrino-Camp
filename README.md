@@ -1,6 +1,10 @@
 # Neutrino-Camp
 These activities were developed for use with teachers in Quarknet Neutrino Camps and center workshops, so they're less scaffolded than what we might typically use with students. You can run the notebooks in Google Colab (requires a Google login, though) or you can install [Anaconda](https://www.anaconda.com/products/individual) to run Jupyter locally on your computer. To download a notebook and run in locally, right-click or command-click the download link and select "save link as".  Thanks to the folks at [Binder](https://mybinder.org/), you can also run our notebooks here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quarknet-HEP/Neutrino-Camp/HEAD)
 
+# Notebook Files    
+- **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/data-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/data-camp/raw/main/intro.ipynb).
+- **Damped Oscillator**: A notebook to investigate different Machine Learning approaches to model a damped oscillator. [Open in Colab](https://github.com/QuarkNet-HEP/Neutrino-Camp/blob/main/damped_oscillator.ipynb) or [download](https://github.com/QuarkNet-HEP/Neutrino-Camp/raw/main/damped_oscillator.ipynb).
+
 # Acknowledgements & Licenses
 
 The development and implementation of these materials and workshop were additionally funded by generous support from IRIS-HEP, the [Institute for Research and Innovation in Software for High Energy Physics](https://iris-hep.org/). 
